@@ -2,7 +2,8 @@
 
 Create CSV file with fake company list.
 
-## Context
+
+## Context 
 
 At work, I required a list of company for testing a functionality. Normally, I use faker.js embed
 to seed or generate data. However, this time, I required a CSV file containting data.
